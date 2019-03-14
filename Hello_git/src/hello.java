@@ -5,6 +5,7 @@ public class hello {
         System.out.println("hello git project");
         System.out.println("hello git project");
         //hello test
+        System.out.println("这是克隆滴");
     }
     public void test(){
         int i = 0;
